@@ -1,0 +1,15 @@
+C:\Users\OEM\source\repos\Weather\Weather\bin\Debug\net6.0\Weather.exe
+C:\Users\OEM\source\repos\Weather\Weather\bin\Debug\net6.0\Weather.deps.json
+C:\Users\OEM\source\repos\Weather\Weather\bin\Debug\net6.0\Weather.runtimeconfig.json
+C:\Users\OEM\source\repos\Weather\Weather\bin\Debug\net6.0\Weather.dll
+C:\Users\OEM\source\repos\Weather\Weather\bin\Debug\net6.0\Weather.pdb
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.AssemblyInfoInputs.cache
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.AssemblyInfo.cs
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.dll
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\refint\Weather.dll
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.pdb
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\Weather.genruntimeconfig.cache
+C:\Users\OEM\source\repos\Weather\Weather\obj\Debug\net6.0\ref\Weather.dll
